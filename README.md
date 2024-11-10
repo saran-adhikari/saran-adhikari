@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/saran-adhikari/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/saran_adhikari/">
+<!--   <a href="https://www.instagram.com/saran_adhikari/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
-  </a>
+  </a> -->
 
 </div>
 
