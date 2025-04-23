@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,bootstrap,fastapi" />
+      <img src="https://skillicons.dev/icons?i=py,html,css,js,mongodb,react,fastapi" />
 </details>
 
 ---
