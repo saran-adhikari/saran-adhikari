@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
   - 👋 Hi, I’m @saran-adhikari
-  - 👀 I’m interested in Web Development
-  - 🌱 I’m currently learning ReactJS
-  - 💞️ I’m looking to collaborate on Front-End
+  - 👀 I’m interested in Web Development amd Machine Learning
+  - 🌱 I’m currently learning ReactJS and FastAPI
+  - 💞️ I’m looking for collaboration
   - 📫 How to reach me saranadhikari02@gmail.com
 ---
 
@@ -29,13 +29,13 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,discord" /> 
+      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,discord,colab" /> 
 </details>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,react,bootstrap,fastapi" />
 </details>
 
 ---
