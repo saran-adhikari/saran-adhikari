@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,discord,colab" /> 
+      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,discord,googlecolab" /> 
 </details>
 
 <details>
