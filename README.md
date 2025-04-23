@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
       <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,discord" /> 
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" width="150" height="40" />
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" width="140" height="40" />
 
 
 </details>
