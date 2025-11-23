@@ -40,20 +40,6 @@ You can click the Preview link to take a look at your changes.
   <br/>
       <img src="https://skillicons.dev/icons?i=py,html,css,js,mongodb,react,fastapi" />
 </details>
-
----
-
-### :fire: My Stats :
-
-
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=saran-adhikari&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=saran-adhikari&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-adhikari&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saran-adhikari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
