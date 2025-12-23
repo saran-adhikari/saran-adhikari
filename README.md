@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,discord" /> 
-      <img src="https://www.flaticon.com/free-icons/antigravity"/>
+      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,vercel" /> 
 </details>
 
 <details>
