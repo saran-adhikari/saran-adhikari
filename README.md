@@ -18,9 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
   - 👋 Hi, I’m @saran-adhikari
-  - 👀 I’m interested in Web Development amd Machine Learning
+  - 👀 I’m interested in FullStack Development, DevOps amd Machine Learning
   - 🌱 I’m currently learning Machine Learning and AI
-  - 💞️ I’m looking for collaboration
   - 📫 How to reach me saranadhikari02@gmail.com
 ---
 
