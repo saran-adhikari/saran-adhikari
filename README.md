@@ -28,13 +28,13 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,vercel" /> 
+      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,vercel, Docker" /> 
 </details>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,mongodb,react,fastapi,nodejs" />
+      <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,mongodb,react,fastapi,nodejs, Docker" />
 </details>
     </p>
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=saran-adhikari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
